@@ -1,0 +1,14 @@
+
+\
+java:S1192#"FDefine a constant instead of duplicating this literal "items" 3 times.(ç–úí
+Y
+java:S35181"CMake sure this expression can't be zero before doing this division.(…‡Ú–
+<
+java:S14811"&Remove this unused "x" local variable.(…‡Ú–
+b	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ß¾
+V	java:S125<"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ
+K
+java:S18541"5Remove this useless assignment to local variable "x".(…‡Ú–
+Q	java:S1256"<This block of commented-out lines of code should be removed.(è™“Ú
+d
+java:S1128"IRemove this unused import 'com.baomidou.mybatisplus.core.metadata.IPage'.(¯à½ýÿÿÿÿ
